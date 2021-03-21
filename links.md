@@ -28,3 +28,9 @@ https://contrastchecker.com/
 https://www.waze.com/pt-BR/?locale=pt-BR
 
 https://www.youtube.com/watch?v=apEz73_H2fU
+
+https://uxdesign.blog.br/acessibilidade-toolkit-entendendo-de-uma-vez-por-todas-a-wcag-e2714120d80
+
+http://acessibilida.de/
+
+https://www.youtube.com/watch?v=fGLp_gfMMGU
