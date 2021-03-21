@@ -19,3 +19,5 @@ https://shouldiuseacarousel.com/
 
 https://opendyslexic.org/
 
+https://www.nngroup.com/people/jakob-nielsen/
+
