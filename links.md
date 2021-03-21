@@ -26,3 +26,5 @@ https://www.w3.org/TR/AERT/#color-contrast
 https://contrastchecker.com/
 
 https://www.waze.com/pt-BR/?locale=pt-BR
+
+https://www.youtube.com/watch?v=apEz73_H2fU
