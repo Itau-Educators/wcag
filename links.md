@@ -8,3 +8,5 @@ https://medium.com/utilizza/thedevconf-2017-trilha-acessibilidade-acessibilidade
 https://page.gitlab.com/resources-ebook-beginner-guide-gitops.html?utm_medium=paidsocial&utm_source=linkedin&utm_campaign=iacgitops_emea_pr_static_x_x&utm_content=beginner-guide-gitops_digital_x-mm_english_
 
 PDF: https://learn.gitlab.com/c/beginner-guide-gitops?x=H2TMk5
+
+https://www.homemmaquina.com.br/o-que-e-affordance/
