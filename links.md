@@ -12,3 +12,10 @@ PDF: https://learn.gitlab.com/c/beginner-guide-gitops?x=H2TMk5
 https://www.homemmaquina.com.br/o-que-e-affordance/
 
 https://geon.github.io/programming/2016/03/03/dsxyliea
+
+https://www.designmantic.com/blog/infographics/designing-for-users-dyslexia/
+
+https://shouldiuseacarousel.com/
+
+https://opendyslexic.org/
+
