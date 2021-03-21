@@ -21,3 +21,6 @@ https://opendyslexic.org/
 
 https://www.nngroup.com/people/jakob-nielsen/
 
+https://www.w3.org/TR/AERT/#color-contrast
+
+https://contrastchecker.com/
